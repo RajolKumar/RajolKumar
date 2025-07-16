@@ -16,20 +16,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final year student at **NIT Warangal** – passionate about *Data Science* and *AI/ML*.
+- 🎓 Final year student at **NIT Warangal** – passionate about *Data Science* and *AI/ML*
 - 🤖 Focused on solving real-world problems using *Machine Learning*, *Deep Learning*, and *Data Engineering*.
 - 🧠 Exploring scalable AI systems and intelligent automation.
 - 📫 Contact: [rajolkumar10072003@gmail.com](mailto:rajolkumar10072003@gmail.com)
 
 ---
 
-## 📚 Currently Learning
 
-- Advanced Machine Learning and NLP  
-- Time Series Forecasting & Model Deployment  
-- Scalable Data Pipelines (Airflow, MLflow, etc.)
-
----
 
 ## 💼 Looking For Opportunities
 
@@ -43,9 +37,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
